@@ -1,0 +1,3 @@
+https://blog.micblo.com/2015/07/19/NGINX%E7%9A%84WAF%E6%A8%A1%E5%9D%97-Naxsi%E7%9A%84%E7%AE%80%E4%BB%8B%E4%B8%8E%E5%AE%89%E8%A3%85-1/
+https://www.jianshu.com/p/d6af53a927ec
+https://www.linuxprobe.com/install-wordpress-nginx.html
